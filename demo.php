@@ -12,7 +12,7 @@ echo "<html lang='pt-BR'>\n";
 echo "<head>\n";
 echo "    <meta charset='UTF-8'>\n";
 echo "    <meta name='viewport' content='width=device-width, initial-scale=1.0'>\n";
-echo "    <title>Demo - Sistema de Assistentes</title>\n";
+echo "    <title>Demo - Sistema de Assistentes Juntos</title>\n";
 echo "    <style>\n";
 echo "        body { font-family: Arial, sans-serif; margin: 40px; background: #f5f5f5; }\n";
 echo "        .container { max-width: 800px; margin: 0 auto; background: white; padding: 30px; border-radius: 8px; box-shadow: 0 2px 10px rgba(0,0,0,0.1); }\n";
